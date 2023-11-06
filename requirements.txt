@@ -1,0 +1,2 @@
+cuda-quantum
+matplotlib
